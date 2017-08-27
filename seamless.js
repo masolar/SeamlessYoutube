@@ -1,0 +1,1 @@
+document.getElementById("player-api").style.position = "fixed";
