@@ -5,6 +5,12 @@
 
     "description": "Lets you scroll on youtube without the video moving off screen.",
 
+    "applications": {
+        "gecko": {
+            "id": "masonlary@gmail.com"
+        }
+    },
+
     "content_scripts": [
         {
             "matches": ["*://*.youtbe.com/watch*"],
